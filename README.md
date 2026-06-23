@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👻 Hey, I'm Junaid
 
-<!--
-**infoj143-png/infoj143-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Pakistan building Android apps, cross-platform games, and web tools.
 
-Here are some ideas to get you started:
+## 🖼🍈 What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Android apps** — Kotlin-based utilities and tools
+- **Games** — 3D games with Godot (Ludo, truck simulator, etc.)
+- **Web tools** — Translators, QR scanners, media tools, deployed on Vercel
+
+## 📑 Featured Projects
+
+- [AI Translator Keyboard](https://github.com/infoj143-png/AI-Translator-Keyboard) — Android keyboard with AI-powered English/Urdu translation + voice input
+- [HideU Calculator Lock](https://github.com/infoj143-png/HideU-Calculator-Lock) — privacy app that hides photos/videos behind a calculator interface
+- [Ludo Star 3D](https://github.com/infoj143-png/Ludo-Star-3d) — 3D Ludo game built with Godot
+- [Pakistan Truck Driver Tycoon](https://github.com/infoj143-png/Pakistan-Truck-Driver-Tycoon) — Truck simulation game
+- [Smart Media Tools](https://github.com/infoj143-png/smart-media-tools-) — Video downloader with modern web UI
+- [3D Translator](https://github.com/infoj143-png/Translator-) — Multilingual translator supporting 25+ languages
+
+## 📊 GitHub Stats
+
+![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=infoj143-png&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infoj143-png&layout=compact&theme=radical)
