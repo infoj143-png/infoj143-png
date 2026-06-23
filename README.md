@@ -1,24 +1,47 @@
-# 👍 Hey, I'm Junaid
+# Hi 👋, I'm Junaid
 
-I'm a developer from Pakistan building Android apps, cross-platform games, and web tools.
+### 🚀 Student | Web Developer | Android App Developer
 
-## 🍰 What I Build
+I'm passionate about building websites, Android apps, and AI-powered tools.
 
-- **Android apps** — Kotlin-based utilities and tools
-- **Games** — 3D games with Godot (Ludo, truck simulator, etc.)
-- **Web tools** — Translators, QR scanners, media tools, deployed on Vercel
+## 🔥 Current Projects
 
-## �1 Featured Projects
+- 🎭 AI Remaker Studio
+- 🌍 AI Voice Translator
+- ⌚ Hafiz Watches E-Commerce Store
+- 🎵 Nova Player Lite
+- 🎲 Online Ludo Game
 
-- [AI Translator Keyboard](https://github.com/infoj143-png/AI-Translator-Keyboard) — Android keyboard with AI-powered English/Urdu translation + voice input
-- [HideU Calculator Lock](https://github.com/infoj143-png/HideU-Calculator-Lock) — Privacy app that hides photos/videos behind a calculator interface
-- [Ludo Star 3D](https://github.com/infoj143-png/Ludo-Star-3d) — 3D Ludo game built with Godot
-- [Pakistan Truck Driver Tycoon](https://github.com/infoj143-png/Pakistan-Truck-Driver-Tycoon) — Truck simulation game
-- [Smart Media Tools](https://github.com/infoj143-png/smart-media-tools-) — Video downloader with modern web UI
-- [3D Translator](https://github.com/infoj143-png/Translator-) — Multilingual translator supporting 25+ languages
+## 🛠️ Technologies & Tools
 
-## 📊 GitHub Stats
+- HTML5
+- CSS3
+- JavaScript
+- Kotlin
+- Jetpack Compose
+- Firebase
+- Git & GitHub
+- Vercel
+- Android Studio
 
-![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=infoj143-png&show_icons=true&theme=radical)
+## 🌐 Live Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-lang/?username=infoj143-png&layout=compact&theme=radical)
+- AI Translator
+- Smart Media Tools
+- Hafiz Watches Store
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infoj143-png&show_icons=true)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=infoj143-png)
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/infoj143-png
+
+---
+
+⭐ Always learning and building new projects.
